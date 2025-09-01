@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesamata&" alt="thesamata" /></p>
 
-![snake gif](https://github.com/Thesamata/Thesamata/blob/output/github-contribution-grid-snake.gif)
