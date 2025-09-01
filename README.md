@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [MIS and Computer Programming graduate, Cisco, Fortinet and VMware certificate](MIS and Computer Programming graduate, Cisco, Fortinet and VMware certificate)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
