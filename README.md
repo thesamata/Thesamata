@@ -10,7 +10,7 @@
 **Fortinet, CCNA Advanced Labs, and Server Virtualization (VMware/Proxmox)**
 
 ### 📄 About Me
-MIS and Computer Programming graduate with [Cisco, Fortinet, and VMware certifications](#)
+MIS and Computer Programming graduate with Cisco, Fortinet, and VMware certifications 
 
 ---
 
