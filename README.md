@@ -1,43 +1,52 @@
-<h1 align="center">Hi 👋, I'm Şafak</h1>
-<h3 align="center">An Ordinary IT Officer</h3>
+# Hi, I'm Şafak Can Bav! 👋
+
+## 📌 About Me
+Hello there! I'm Şafak, an IT Officer passionate about **Networking, Systems, and Cybersecurity**.  
+I strive to continuously improve myself, explore new technologies, and create projects that strengthen IT infrastructures.  
+
+🌟 **My Motto**: Keep learning, keep building!  
 
 ---
 
-### 🔭 I’m currently working on
-**Networking & System Administration projects**
+## 💻 My GitHub Projects
+### 🌐 Networking & System Projects
+- [Network Scanner](https://github.com/thesamata/Python_NetScanner): A Python-based tool for scanning subnets and devices.
+- [Switch Config Generator](https://github.com/thesamata/CiscoSwitch_Conf): Generate Cisco switch configs automatically with Python.
 
-### 🌱 I’m currently learning
-**Fortinet, CCNA Advanced Labs, and Server Virtualization (VMware/Proxmox)**
-
-### 📄 About Me
-MIS and Computer Programming graduate with Cisco, Fortinet, and VMware certifications 
-
----
-
-### 💻 Languages & Tools
-<p align="center">
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-</p>
+### 🛡 Cybersecurity & Automation
+- [Firewall Lab Notes](#): Fortinet security lab experiments and configs.
+- [Automation Scripts](#): Small utilities for IT automation and troubleshooting.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesamata&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesamata&layout=compact&hide=html,css" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesamata&" alt="GitHub Streak" />
-</p>
+## 🌟 Areas of Interest
+- **Networking**: Switching, routing, and network defense.  
+- **System Administration**: Windows Server, Active Directory, VMware/Proxmox.  
+- **Cybersecurity**: Firewall management (Fortinet), secure networking.  
+- **Scripting & Automation**: Python for IT operations.  
+
+---
+
+## 🏢 Companies I'd Love to Work With
+Some companies that inspire me:  
+- 🌐 **Cisco**  
+- 🔒 **Fortinet**  
+- 💻 **VMware**  
+- ☁️ **Microsoft Azure**  
+- 🌍 **Google Cloud**  
+
+---
+
+## 🌈 Personal Note
+I enjoy working on projects that combine **networking, systems, and automation**.  
+I believe in teamwork, continuous learning, and growing through diverse ideas.  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesamata&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesamata&layout=compact&theme=radical)  
+
+---
+
+**Welcome to my GitHub profile! 👨‍💻**
