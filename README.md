@@ -13,10 +13,6 @@ I strive to continuously improve myself, explore new technologies, and create pr
 - [Network Scanner](https://github.com/thesamata/Python_NetScanner): A Python-based tool for scanning subnets and devices.
 - [Switch Config Generator](https://github.com/thesamata/CiscoSwitch_Conf): Generate Cisco switch configs automatically with Python.
 
-### 🛡 Cybersecurity & Automation
-- [Firewall Lab Notes](#): Fortinet security lab experiments and configs.
-- [Automation Scripts](#): Small utilities for IT automation and troubleshooting.
-
 ---
 
 ## 🌟 Areas of Interest
