@@ -1,4 +1,4 @@
-# Hi, I'm Şafak Can Bav! 👋
+# Hi, I'm Şafak👋
 
 ## 📌 About Me
 Hello there! I'm Şafak, an IT Officer passionate about **Networking, Systems, and Cybersecurity**.  
@@ -46,3 +46,5 @@ I believe in teamwork, continuous learning, and growing through diverse ideas.
 ---
 
 **Welcome to my GitHub profile! 👨‍💻**
+
+![snake gif](https://github.com/thesamata/thesamata/blob/output/github-contribution-grid-snake.gif)
