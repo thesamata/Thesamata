@@ -1,13 +1,13 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
+# GitHub Action for generating a contribution graph with a snake eating your contributions 🐍
 
 name: Generate Snake
 
 on:
   schedule:
-    # her 6 saatte bir çalışır
-    - cron: "0 */6 * * *"
+    # her gün gece 12'de çalışır (istersen değiştir)
+    - cron: "0 0 * * *"
 
-  # Actions sekmesinden manuel tetikleme için
+  # manuel tetikleme için
   workflow_dispatch:
 
 jobs:
@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Reponu checkout et
+      # reponu checkout et
       - uses: actions/checkout@v4
 
-      # Snake SVG üret
+      # snake SVG üret
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -28,15 +28,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-light.svg?palette=github-light
 
-      # Oluşan dosyaları commit et
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "dist"
-          message: "Generated snake animation"
-          default_author: github_actions
-
-      # İsteğe bağlı: GitHub Pages'e deploy et (output branch üzerinden)
+      # output branch'e deploy et (GitHub Pages için)
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
