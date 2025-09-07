@@ -46,5 +46,3 @@ I believe in teamwork, continuous learning, and growing through diverse ideas.
 ---
 
 **Welcome to my GitHub profile! 👨‍💻**
-
-![snake gif](https://github.com/thesamata/thesamata/blob/output/github-contribution-grid-snake.gif)
